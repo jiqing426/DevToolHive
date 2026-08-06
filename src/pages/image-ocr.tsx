@@ -63,9 +63,13 @@ export default function ImageOcrPage() {
 
       {preview && (
         <div className="mt-4 flex flex-col desktop:flex-row items-start gap-4">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={preview} alt="preview" className="max-h-48 rounded border border-gray-200" />
-          <div className="flex-1 w-full">
+          <div className="w-full desktop:w-56 shrink-0">
+            <div className="h-40 desktop:h-48 rounded-lg border border-gray-200 bg-gray-50 overflow-hidden flex items-center justify-center">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={preview} alt="preview" className="max-w-full max-h-full object-contain" />
+            </div>
+          </div>
+          <div className="flex-1 w-full min-w-0">
             <div className="flex items-center gap-3 mb-2">
               <span className="text-sm text-gray-600">{t('language')}</span>
               <select
