@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://devtoolhive.dev/sitemap.xml
+Sitemap: https://wwj1017.top/sitemap.xml

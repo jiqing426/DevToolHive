@@ -1,7 +1,7 @@
 export const LOCALES = ['en', 'zh-CN', 'de', 'fr', 'it', 'es', 'ja'] as const;
 export type Locale = (typeof LOCALES)[number];
 export const DEFAULT_LOCALE: Locale = 'en';
-export const SITE_ORIGIN = 'https://devtoolhive.dev';
+export const SITE_ORIGIN = 'https://wwj1017.top';
 
 export const LOCALE_LABELS: Record<Locale, string> = {
   en: 'English',
