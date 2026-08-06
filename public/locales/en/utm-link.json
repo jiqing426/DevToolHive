@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "UTM Link Builder - Free UTM URL Generator",
-    "description": "Build UTM tracking URLs with source/medium/campaign/term/content. Free."
+    "title": "UTM Builder - Free UTM Link Generator for Campaign URLs",
+    "description": "Free UTM builder and UTM generator for campaign URL builder. Create UTM links and tracking URLs with source, medium, campaign, term and content parameters."
   },
   "title": "UTM Link Generator",
   "description": "Build UTM tracking URLs for your marketing campaigns with a live preview.",
-  "howToUse": "Fill in the base URL and any UTM parameters. The full tracking link is generated live. Copy it with one click.",
+  "howToUse": "Fill in the base URL and UTM parameters — the UTM builder generates a tracking URL live. Copy your UTM link with one click, a free campaign URL builder and UTM generator.",
   "url": "Website URL",
   "urlPlaceholder": "https://example.com/page",
   "source": "Campaign Source",

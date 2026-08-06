@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "UTM 链接生成器 - 免费 UTM 链接构建工具",
-    "description": "构建含 source/medium/campaign/term/content 的 UTM 跟踪链接，免费。"
+    "title": "UTM 链接生成器 | UTM 构建 活动 URL tracking 在线工具",
+    "description": "免费 UTM builder 与 utm generator，用于 campaign URL builder。构建 UTM 链接与 tracking URL，含 source、medium、campaign 等参数。"
   },
   "title": "UTM 链接生成器",
   "description": "为营销活动构建 UTM 跟踪链接，实时预览。",
-  "howToUse": "填写基础网址与任意 UTM 参数，完整跟踪链接实时生成，一键复制。",
+  "howToUse": "填写基础网址与 UTM parameters，utm builder 实时生成 tracking URL。一键复制 UTM 链接，免费 campaign URL builder 与 utm generator 工具。",
   "url": "网站网址",
   "urlPlaceholder": "https://example.com/page",
   "source": "来源",

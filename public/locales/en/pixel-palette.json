@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Pixel Art Palette Generator - 8-bit & 16-bit Color Tool",
-    "description": "Create pixel art palettes with 8-bit/16-bit presets. Export PNG, HEX, CSS. Free for indie game artists."
+    "title": "Pixel Art Palette Generator - 8-bit & 16-bit Color Palette Tool",
+    "description": "Free color palette generator for pixel art palette. Build retro palette with 8-bit 16-bit presets and sprite colors — export NES palette as PNG, HEX, CSS."
   },
   "title": "Pixel Art Palette Generator",
   "description": "Build retro pixel art palettes with classic 8-bit/16-bit presets. Pick colors, reorder swatches, and export as PNG, HEX, or CSS variables.",
-  "howToUse": "Pick a color and click Add, or load a preset (NES / Game Boy / Pico-8). Click a swatch to select it, then move it up/down or delete it. Export your palette as PNG, HEX text, or CSS variables, or copy all color values at once.",
+  "howToUse": "Pick a color and add it, or load an 8-bit 16-bit retro palette preset like NES palette. Reorder sprite colors and export your pixel art palette as PNG, HEX or CSS variables.",
   "add": "Add",
   "delete": "Delete",
   "moveUp": "Move Up",

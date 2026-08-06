@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Case Converter Online - Upper, Lower, Title, Camel",
-    "description": "Convert text to uppercase, lowercase, title, camelCase, snake_case, kebab-case. Free."
+    "title": "Case Converter Online - Upper, Lower, Title, Camel, Snake Case",
+    "description": "Free case converter to switch uppercase, lowercase, title case, camelCase, snake_case and kebab-case. Also supports pascal case and constant case."
   },
   "title": "Case Converter",
   "description": "Convert text between uppercase, lowercase, title, camelCase, snake_case, kebab-case and more.",
-  "howToUse": "Paste or type your text, choose a target case mode, and the result updates instantly. Click Copy to copy the result to your clipboard.",
+  "howToUse": "Paste or type your text and pick a target case. The case converter instantly switches between uppercase, lowercase, title case, camelCase, snake_case, kebab-case, pascal case and constant case — click Copy to copy.",
   "inputPlaceholder": "Enter your text here...",
   "modes": {
     "upper": "UPPER CASE",

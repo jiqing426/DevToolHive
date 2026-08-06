@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "像素调色板生成器 - 8-bit & 16-bit 配色工具",
-    "description": "使用 8-bit/16-bit 预设创建像素调色板，导出 PNG、HEX、CSS。独立游戏美术免费工具。"
+    "title": "像素调色板生成器 | 8 位 16 位 复古配色 NES palette",
+    "description": "免费 color palette generator，创建 pixel art palette。支持 8 位 16 位复古配色与 sprite colors，导出 NES palette 为 PNG、HEX、CSS。"
   },
   "title": "像素调色板生成器",
   "description": "用经典 8-bit/16-bit 预设构建复古像素调色板。拾取颜色、排序色块，并导出为 PNG、HEX 或 CSS 变量。",
-  "howToUse": "拾取颜色后点击添加，或加载预设（NES / Game Boy / Pico-8）。点击色块选中后可上移/下移或删除。可将调色板导出为 PNG、HEX 文本或 CSS 变量，也可一键复制全部色值。",
+  "howToUse": "拾取颜色后添加，或加载 8 位 16 位 retro palette 预设（如 NES palette）。调整 sprite colors 后导出像素调色板为 PNG、HEX 或 CSS 变量。",
   "add": "添加",
   "delete": "删除",
   "moveUp": "上移",

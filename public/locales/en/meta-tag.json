@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Meta Tag & Open Graph Generator - Free SEO Tool",
-    "description": "Generate SEO meta, Open Graph and Twitter Card tags with live social preview. Free online."
+    "title": "Meta Tag & Open Graph Generator - Free SEO Meta Tag Tool",
+    "description": "Generate SEO meta tags, Open Graph and Twitter Card tags with live social preview. Build og tags, canonical and robots directives. Free online meta tag generator."
   },
   "title": "Meta Tag Generator",
   "description": "Generate SEO meta, Open Graph and Twitter Card tags with a live social share preview.",
-  "howToUse": "Fill in the site title, description, URL and image. See a live Facebook and Twitter share preview, then copy the generated HTML.",
+  "howToUse": "Fill in the title, description, URL and image to generate SEO meta tags, Open Graph and Twitter Card tags. Preview the social share card and SERP preview, then copy canonical, robots and og tags as HTML.",
   "pageTitle": "Title",
   "pageDescription": "Description",
   "url": "URL",

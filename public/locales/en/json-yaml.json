@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "JSON to YAML Converter & JSON Formatter Online Free",
-    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, and diff JSON. Free, local browser processing."
+    "title": "JSON to YAML Converter & JSON Formatter, Validator Online Free",
+    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, validate and diff JSON, export to CSV. Free online JSON formatter and beautifier, 100% local browser."
   },
   "title": "JSON YAML Converter",
   "description": "Convert between JSON and YAML, format and minify JSON, and diff two JSON documents.",
-  "howToUse": "Paste JSON or YAML in the input box. Use Format, Minify, To YAML, or To JSON. Toggle Diff and paste a second JSON to compare.",
+  "howToUse": "Paste JSON or YAML to convert between JSON to YAML and YAML to JSON formats. Use the JSON formatter, beautifier, minifier and validator, run a JSON diff, or pretty print and export to CSV — all locally.",
   "inputPlaceholder": "Paste JSON or YAML here...",
   "outputPlaceholder": "Result...",
   "formatJson": "Format JSON",

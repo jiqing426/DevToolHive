@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "在线哈希生成器 - MD5、SHA1、SHA256、SHA512",
-    "description": "在浏览器本地生成文本的 MD5、SHA1、SHA256、SHA512 哈希，免费。"
+    "title": "哈希生成器 在线 | MD5 SHA1 SHA256 SHA512 校验和",
+    "description": "免费 hash generator，支持 MD5、SHA1、SHA256、SHA512 哈希生成与校验和 checksum。文本哈希本地处理，无需上传。"
   },
   "title": "哈希生成器",
   "description": "在浏览器本地生成 MD5、SHA-1、SHA-256 与 SHA-512 哈希。",
-  "howToUse": "输入或粘贴文本，选择哈希算法，哈希值即时更新，一键复制。",
+  "howToUse": "输入或粘贴文本，选择哈希算法，hash generator 即时生成 MD5、SHA1、SHA256、SHA512 校验和。一键复制 hash text 结果，全部本地处理。",
   "inputPlaceholder": "输入要哈希的文本...",
   "algorithm": "算法"
 }
