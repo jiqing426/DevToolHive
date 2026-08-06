@@ -1,0 +1,18 @@
+{
+  "seo": {
+    "title": "Image to Text OCR Online - Extract Text Free",
+    "description": "Extract text from images via OCR, runs locally. Free online image to text tool."
+  },
+  "title": "Image OCR",
+  "description": "Extract text from images using OCR, running entirely in your browser. Supports English and Simplified Chinese. Free, no upload.",
+  "howToUse": "Upload an image, choose a recognition language (English or Simplified Chinese), and click Recognize. Progress is shown live. Copy the extracted text with one click. All processing is local — nothing is uploaded.",
+  "uploadPlaceholder": "Upload an image",
+  "recognize": "Recognize",
+  "language": "Language",
+  "result": "Result",
+  "recognizing": "Recognizing...",
+  "languages": {
+    "english": "English",
+    "chinese": "Chinese (Simplified)"
+  }
+}

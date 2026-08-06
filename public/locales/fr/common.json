@@ -1,0 +1,43 @@
+{
+  "brand": "DevToolHive",
+  "slogan": "Free Online Developer & Game-Dev Tools | 100% Local Browser Processing",
+  "sellingPoints": {
+    "localProcessing": "100% Local Browser Processing",
+    "noUpload": "No Data Upload",
+    "freeForever": "Free Forever",
+    "noSignup": "No Registration Required"
+  },
+  "nav": {
+    "tools": "Tools",
+    "language": "Language",
+    "home": "Home",
+    "menu": "Menu"
+  },
+  "footer": {
+    "copyright": "DevToolHive © 2026",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "cookie": {
+    "message": "We use cookies for Google AdSense and traffic analytics. You can accept or reject non-essential cookies.",
+    "accept": "Accept All Cookies",
+    "reject": "Reject Non-Essential"
+  },
+  "actions": {
+    "copy": "Copy",
+    "copied": "Copied!",
+    "download": "Download",
+    "reset": "Reset",
+    "clear": "Clear",
+    "convert": "Convert",
+    "format": "Format",
+    "minify": "Minify",
+    "add": "Add",
+    "delete": "Delete",
+    "generate": "Generate",
+    "upload": "Upload",
+    "moveUp": "Move Up",
+    "moveDown": "Move Down"
+  }
+}

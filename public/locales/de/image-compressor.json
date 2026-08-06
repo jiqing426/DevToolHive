@@ -1,0 +1,17 @@
+{
+  "seo": {
+    "title": "Image Compressor Online - PNG, JPEG, WebP Free",
+    "description": "Compress images to reduce size. PNG/JPEG/WebP. 100% local, no upload."
+  },
+  "title": "Image Compressor",
+  "description": "Compress PNG, JPEG, and WebP images right in your browser. Adjust quality, preview the result, and download — 100% local, no upload.",
+  "howToUse": "Upload an image (PNG/JPEG/WebP), drag the quality slider to tune compression, and preview the result with file sizes and reduction rate. Click Download to save the compressed image. Nothing is uploaded — all processing happens locally.",
+  "uploadPlaceholder": "Choose an image (PNG, JPEG, WebP)",
+  "originalSize": "Original Size",
+  "compressedSize": "Compressed Size",
+  "reduction": "Reduction",
+  "quality": "Quality",
+  "download": "Download",
+  "originalPreview": "Original",
+  "compressedPreview": "Compressed"
+}
