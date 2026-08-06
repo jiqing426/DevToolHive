@@ -1,0 +1,16 @@
+{
+  "seo": {
+    "title": "Unix 时间戳转换 - UTC 日期时间在线转换",
+    "description": "在 Unix 时间戳与可读日期间互转，支持秒/毫秒与时区，免费本地工具。"
+  },
+  "title": "时间戳转换",
+  "description": "在 Unix 时间戳与可读日期间双向转换，支持秒和毫秒。",
+  "howToUse": "输入 Unix 时间戳并选择秒或毫秒，即可查看 ISO 与本地时间。或选择一个日期获取其时间戳。点击复制按钮复制结果。",
+  "timestampPlaceholder": "输入 Unix 时间戳",
+  "seconds": "秒",
+  "milliseconds": "毫秒",
+  "iso": "ISO 时间",
+  "local": "本地时间",
+  "pickDate": "选择日期",
+  "resultTimestamp": "时间戳"
+}

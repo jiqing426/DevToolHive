@@ -1,0 +1,11 @@
+{
+  "seo": {
+    "title": "颜色转换 - HEX、RGB、HSL 格式工具",
+    "description": "在 HEX、RGB、HSL 间转换颜色，免费在线颜色转换工具。"
+  },
+  "title": "颜色转换",
+  "description": "在 HEX、RGB 与 HSL 格式间转换颜色，并实时预览。",
+  "howToUse": "以任意格式输入颜色（如 #f59e0b、rgb(245,158,11)、hsl(43,92%,50%)），其他格式与预览即时更新。",
+  "inputPlaceholder": "#f59e0b 或 rgb(...) 或 hsl(...)",
+  "preview": "预览"
+}

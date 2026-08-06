@@ -1,0 +1,43 @@
+{
+  "brand": "DevToolHive",
+  "slogan": "免费在线开发者与游戏开发工具 | 100% 本地浏览器运算",
+  "sellingPoints": {
+    "localProcessing": "100% 本地浏览器运算",
+    "noUpload": "无数据上传",
+    "freeForever": "永久免费",
+    "noSignup": "无需注册"
+  },
+  "nav": {
+    "tools": "工具",
+    "language": "语言",
+    "home": "首页",
+    "menu": "菜单"
+  },
+  "footer": {
+    "copyright": "DevToolHive © 2026",
+    "about": "关于我们",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "cookie": {
+    "message": "我们使用 Cookie 用于 Google AdSense 和流量统计。您可以接受或拒绝非必要 Cookie。",
+    "accept": "接受全部 Cookie",
+    "reject": "拒绝非必要 Cookie"
+  },
+  "actions": {
+    "copy": "复制",
+    "copied": "已复制！",
+    "download": "下载",
+    "reset": "重置",
+    "clear": "清空",
+    "convert": "转换",
+    "format": "格式化",
+    "minify": "压缩",
+    "add": "添加",
+    "delete": "删除",
+    "generate": "生成",
+    "upload": "上传",
+    "moveUp": "上移",
+    "moveDown": "下移"
+  }
+}

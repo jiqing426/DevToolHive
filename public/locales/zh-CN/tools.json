@@ -1,0 +1,12 @@
+{
+  "json-yaml-converter": { "name": "JSON YAML 转换器", "desc": "在线转换 JSON 与 YAML、格式化与对比 JSON。" },
+  "pixel-art-palette-generator": { "name": "像素调色板生成器", "desc": "创建 8 位/16 位像素风配色方案。" },
+  "meta-tag-generator": { "name": "Meta 标签生成器", "desc": "生成 SEO Meta、Open Graph 与 Twitter Card 标签。" },
+  "case-converter": { "name": "大小写转换", "desc": "转换为大写、小写、标题、驼峰、下划线等。" },
+  "timestamp-converter": { "name": "时间戳转换", "desc": "Unix 时间戳与日期互转。" },
+  "hash-generator": { "name": "哈希生成器", "desc": "生成 MD5、SHA1、SHA256、SHA512 哈希。" },
+  "color-converter": { "name": "颜色转换", "desc": "HEX、RGB、HSL 颜色互转。" },
+  "utm-link-generator": { "name": "UTM 链接生成器", "desc": "为活动构建 UTM 跟踪链接。" },
+  "image-compressor": { "name": "图片压缩", "desc": "在浏览器中压缩 PNG、JPEG、WebP。" },
+  "image-ocr": { "name": "图片 OCR", "desc": "本地 OCR 提取图片中的文字。" }
+}

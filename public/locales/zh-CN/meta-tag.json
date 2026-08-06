@@ -1,0 +1,21 @@
+{
+  "seo": {
+    "title": "Meta 标签与 Open Graph 生成器 - 免费 SEO 工具",
+    "description": "生成 SEO meta、Open Graph 与 Twitter Card 标签，带实时社交预览，免费在线。"
+  },
+  "title": "Meta 标签生成器",
+  "description": "生成 SEO meta、Open Graph 与 Twitter Card 标签，并实时预览社交分享效果。",
+  "howToUse": "填写站点标题、描述、网址与图片，实时查看 Facebook 与 Twitter 分享预览，然后复制生成的 HTML。",
+  "pageTitle": "标题",
+  "pageDescription": "描述",
+  "url": "网址",
+  "image": "图片地址",
+  "siteName": "站点名称",
+  "twitterSite": "Twitter @账号",
+  "generate": "生成",
+  "copyHtml": "复制 HTML",
+  "reset": "重置",
+  "previewFacebook": "Facebook 预览",
+  "previewTwitter": "Twitter 预览",
+  "outputHtml": "生成的 HTML"
+}

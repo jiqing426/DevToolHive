@@ -1,0 +1,23 @@
+{
+  "seo": {
+    "title": "像素调色板生成器 - 8-bit & 16-bit 配色工具",
+    "description": "使用 8-bit/16-bit 预设创建像素调色板，导出 PNG、HEX、CSS。独立游戏美术免费工具。"
+  },
+  "title": "像素调色板生成器",
+  "description": "用经典 8-bit/16-bit 预设构建复古像素调色板。拾取颜色、排序色块，并导出为 PNG、HEX 或 CSS 变量。",
+  "howToUse": "拾取颜色后点击添加，或加载预设（NES / Game Boy / Pico-8）。点击色块选中后可上移/下移或删除。可将调色板导出为 PNG、HEX 文本或 CSS 变量，也可一键复制全部色值。",
+  "add": "添加",
+  "delete": "删除",
+  "moveUp": "上移",
+  "moveDown": "下移",
+  "exportPng": "导出 PNG",
+  "copyHex": "复制 HEX",
+  "copyCss": "复制 CSS",
+  "presetPlaceholder": "加载预设...",
+  "empty": "还没有颜色。拾取颜色或加载预设开始。",
+  "presets": {
+    "nes": "NES",
+    "gameboy": "Game Boy",
+    "pico8": "Pico-8"
+  }
+}

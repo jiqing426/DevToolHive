@@ -1,0 +1,13 @@
+{
+  "seo": {
+    "title": "About DevToolHive - Free Local Developer Tools",
+    "description": "About DevToolHive, free developer and game-dev tools running 100% in your browser."
+  },
+  "title": "About DevToolHive",
+  "body": {
+    "intro": "DevToolHive is a free online developer and game-dev tool hub. Every tool runs entirely in your browser — no data is uploaded to any server, no account is required, and it is free forever.",
+    "mission": "Our mission is to provide fast, privacy-first developer utilities for a global audience, available in 7 languages.",
+    "local": "All tools perform 100% local browser processing. Your inputs never leave your device.",
+    "revenue": "We are funded solely by Google AdSense display ads. There are no paid features, no subscriptions, and no data sales."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "seo": {
+    "title": "在线图片压缩 - PNG、JPEG、WebP 免费",
+    "description": "压缩图片以减小体积，支持 PNG/JPEG/WebP，100% 本地处理，无需上传。"
+  },
+  "title": "图片压缩",
+  "description": "在浏览器中压缩 PNG、JPEG、WebP 图片。调节质量、预览结果并下载——100% 本地处理，无需上传。",
+  "howToUse": "上传图片（PNG/JPEG/WebP），拖动质量滑块调节压缩，预览结果及文件大小和压缩率。点击下载保存压缩后的图片。所有处理均在本地完成，不会上传任何文件。",
+  "uploadPlaceholder": "选择图片（PNG、JPEG、WebP）",
+  "originalSize": "原大小",
+  "compressedSize": "压缩后大小",
+  "reduction": "压缩率",
+  "quality": "质量",
+  "download": "下载",
+  "originalPreview": "原图",
+  "compressedPreview": "压缩后"
+}

@@ -1,0 +1,18 @@
+{
+  "seo": {
+    "title": "Terms of Service - DevToolHive",
+    "description": "Terms of service for using DevToolHive's free online developer tools."
+  },
+  "title": "Terms of Service",
+  "updated": "Last updated: 2026",
+  "sections": [
+    { "heading": "1. Acceptance", "text": "By using DevToolHive, you agree to these Terms." },
+    { "heading": "2. Use of Tools", "text": "Tools are provided free, as is. You are responsible for your use. Do not use the tools for unlawful purposes." },
+    { "heading": "3. No Warranty", "text": "We provide no warranty regarding accuracy, availability, or fitness for a particular purpose." },
+    { "heading": "4. Limitation of Liability", "text": "We are not liable for any damages arising from use of the site." },
+    { "heading": "5. Advertising", "text": "We display ads via Google AdSense. We are not responsible for third-party ad content." },
+    { "heading": "6. Intellectual Property", "text": "You retain all rights to your inputs. We claim no ownership of your data." },
+    { "heading": "7. Changes", "text": "We may modify tools or Terms at any time." },
+    { "heading": "8. Governing Law", "text": "These Terms are governed by applicable law." }
+  ]
+}
