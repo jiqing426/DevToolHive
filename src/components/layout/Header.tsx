@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { Menu, ChevronDown, X, Globe } from 'lucide-react';
-import { TOOLS, LOCALES, LOCALE_LABELS, toolHref, type Locale } from '@/lib/site';
+import { TOOLS, LOCALES, LOCALE_LABELS, toolHref, DEFAULT_LOCALE, type Locale } from '@/lib/site';
 
 export default function Header() {
   const { t } = useTranslation(['common', 'tools']);
@@ -70,7 +70,7 @@ export default function Header() {
                     key={l}
                     onClick={() => changeLang(l)}
                     className={`block w-full text-left px-4 py-2 text-sm hover:bg-honey-50 ${
-                      l === locale ? 'text-honey-600 font-semibold' : 'text-gray-700'
+                      l === DEFAULT_LOCALE ? 'text-honey-600 font-semibold' : 'text-gray-700'
                     }`}
                   >
                     {LOCALE_LABELS[l]}
@@ -127,7 +127,7 @@ export default function Header() {
                     key={l}
                     onClick={() => changeLang(l)}
                     className={`block w-full text-left py-2 text-sm ${
-                      l === locale ? 'text-honey-600 font-semibold' : 'text-gray-700'
+                      l === DEFAULT_LOCALE ? 'text-honey-600 font-semibold' : 'text-gray-700'
                     }`}
                   >
                     {LOCALE_LABELS[l]}
