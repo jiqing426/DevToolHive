@@ -1,12 +1,12 @@
 {
-  "json-yaml-converter": { "name": "JSON YAML Converter", "desc": "Convert JSON to YAML, format and diff JSON online." },
-  "pixel-art-palette-generator": { "name": "Pixel Art Palette Generator", "desc": "Create 8-bit/16-bit pixel art color palettes." },
-  "meta-tag-generator": { "name": "Meta Tag Generator", "desc": "Generate SEO meta, Open Graph and Twitter Card tags." },
-  "case-converter": { "name": "Case Converter", "desc": "Convert text to upper, lower, title, camel, snake case." },
-  "timestamp-converter": { "name": "Timestamp Converter", "desc": "Convert Unix timestamp to date and back." },
-  "hash-generator": { "name": "Hash Generator", "desc": "Generate MD5, SHA1, SHA256, SHA512 hashes." },
-  "color-converter": { "name": "Color Converter", "desc": "Convert colors between HEX, RGB, HSL." },
-  "utm-link-generator": { "name": "UTM Link Generator", "desc": "Build UTM tracking URLs for campaigns." },
-  "image-compressor": { "name": "Image Compressor", "desc": "Compress PNG, JPEG, WebP in your browser." },
-  "image-ocr": { "name": "Image OCR", "desc": "Extract text from images locally with OCR." }
+  "json-yaml-converter": { "name": "JSON YAML 変換ツール", "desc": "JSON を YAML に変換し、JSON をオンラインで整形・差分表示します。" },
+  "pixel-art-palette-generator": { "name": "ピクセルアートパレット生成ツール", "desc": "8ビット/16ビットのピクセルアートカラーパレットを作成します。" },
+  "meta-tag-generator": { "name": "メタタグ生成ツール", "desc": "SEO メタ、Open Graph、Twitter Card タグを生成します。" },
+  "case-converter": { "name": "ケース変換ツール", "desc": "テキストを大文字・小文字・タイトルケース・camel・snake_case に変換します。" },
+  "timestamp-converter": { "name": "タイムスタンプ変換ツール", "desc": "Unix timestamp を日付に、またその逆に変換します。" },
+  "hash-generator": { "name": "ハッシュ生成ツール", "desc": "MD5、SHA1、SHA256、SHA512 ハッシュを生成します。" },
+  "color-converter": { "name": "カラー変換ツール", "desc": "HEX、RGB、HSL 間でカラーを変換します。" },
+  "utm-link-generator": { "name": "UTM リンク生成ツール", "desc": "キャンペーン用の UTM トラッキング URL を作成します。" },
+  "image-compressor": { "name": "画像圧縮ツール", "desc": "ブラウザ内で PNG、JPEG、WebP を圧縮します。" },
+  "image-ocr": { "name": "画像OCRツール", "desc": "OCR で画像からテキストをローカルに抽出します。" }
 }

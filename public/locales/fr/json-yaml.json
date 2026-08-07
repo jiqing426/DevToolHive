@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "JSON to YAML Converter & JSON Formatter Online Free",
-    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, and diff JSON. Free, local browser processing."
+    "title": "Convertisseur JSON YAML & Formateur JSON en ligne gratuit",
+    "description": "Convertir JSON en YAML et YAML en JSON. Formater, compresser et comparer JSON. Gratuit, local."
   },
-  "title": "JSON YAML Converter",
-  "description": "Convert between JSON and YAML, format and minify JSON, and diff two JSON documents.",
-  "howToUse": "Paste JSON or YAML in the input box. Use Format, Minify, To YAML, or To JSON. Toggle Diff and paste a second JSON to compare.",
-  "inputPlaceholder": "Paste JSON or YAML here...",
-  "outputPlaceholder": "Result...",
-  "formatJson": "Format JSON",
-  "minifyJson": "Minify JSON",
-  "toYaml": "To YAML",
-  "toJson": "To JSON",
-  "diff": "Diff",
-  "csv": "Export CSV",
-  "secondInput": "Second JSON (for Diff)"
+  "title": "Convertisseur JSON YAML",
+  "description": "Convertir entre JSON et YAML, formater et compresser JSON, et comparer deux documents JSON.",
+  "howToUse": "Collez JSON ou YAML dans la zone de saisie. Utilisez Formater, Compresser, Vers YAML ou Vers JSON. Activez Comparer et collez un second JSON pour comparer.",
+  "inputPlaceholder": "Collez JSON ou YAML ici...",
+  "outputPlaceholder": "Résultat...",
+  "formatJson": "Formater JSON",
+  "minifyJson": "Compresser JSON",
+  "toYaml": "Vers YAML",
+  "toJson": "Vers JSON",
+  "diff": "Comparer",
+  "csv": "Exporter CSV",
+  "secondInput": "Second JSON (pour comparaison)"
 }

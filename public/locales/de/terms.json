@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Terms of Service - DevToolHive",
-    "description": "Terms of service for using DevToolHive's free online developer tools."
+    "title": "Nutzungsbedingungen - DevToolHive",
+    "description": "Nutzungsbedingungen für die Verwendung der kostenlosen Online-Entwickler-Tools von DevToolHive."
   },
-  "title": "Terms of Service",
-  "updated": "Last updated: 2026",
+  "title": "Nutzungsbedingungen",
+  "updated": "Zuletzt aktualisiert: 2026",
   "sections": [
-    { "heading": "1. Acceptance", "text": "By using DevToolHive, you agree to these Terms." },
-    { "heading": "2. Use of Tools", "text": "Tools are provided free, as is. You are responsible for your use. Do not use the tools for unlawful purposes." },
-    { "heading": "3. No Warranty", "text": "We provide no warranty regarding accuracy, availability, or fitness for a particular purpose." },
-    { "heading": "4. Limitation of Liability", "text": "We are not liable for any damages arising from use of the site." },
-    { "heading": "5. Advertising", "text": "We display ads via Google AdSense. We are not responsible for third-party ad content." },
-    { "heading": "6. Intellectual Property", "text": "You retain all rights to your inputs. We claim no ownership of your data." },
-    { "heading": "7. Changes", "text": "We may modify tools or Terms at any time." },
-    { "heading": "8. Governing Law", "text": "These Terms are governed by applicable law." }
+    { "heading": "1. Zustimmung", "text": "Mit der Nutzung von DevToolHive stimmen Sie diesen Nutzungsbedingungen zu." },
+    { "heading": "2. Nutzung der Werkzeuge", "text": "Die Werkzeuge werden kostenlos und ohne Gewähr zur Verfügung gestellt. Sie sind für Ihre Nutzung verantwortlich. Nutzen Sie die Werkzeuge nicht für rechtswidrige Zwecke." },
+    { "heading": "3. Keine Gewährleistung", "text": "Wir geben keine Gewährleistung bezüglich Richtigkeit, Verfügbarkeit oder Eignung für einen bestimmten Zweck." },
+    { "heading": "4. Haftungsbeschränkung", "text": "Wir haften nicht für Schäden, die aus der Nutzung der Website entstehen." },
+    { "heading": "5. Werbung", "text": "Wir zeigen Anzeigen über Google AdSense. Wir sind nicht für Inhalte Dritter verantwortlich." },
+    { "heading": "6. Geistiges Eigentum", "text": "Sie behalten alle Rechte an Ihren Eingaben. Wir erheben kein Eigentum an Ihren Daten." },
+    { "heading": "7. Änderungen", "text": "Wir können Werkzeuge oder Nutzungsbedingungen jederzeit ändern." },
+    { "heading": "8. Anwendbares Recht", "text": "Diese Nutzungsbedingungen unterliegen dem anwendbaren Recht." }
   ]
 }

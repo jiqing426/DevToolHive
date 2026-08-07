@@ -1,21 +1,21 @@
 {
   "seo": {
-    "title": "Meta Tag & Open Graph Generator - Free SEO Tool",
-    "description": "Generate SEO meta, Open Graph and Twitter Card tags with live social preview. Free online."
+    "title": "Generador de meta tags y Open Graph - Herramienta SEO gratuita",
+    "description": "Genera meta tags SEO, Open Graph y Twitter Card con vista previa social en vivo. Crea og tags, directivas canonical y robots. Generador de meta tags online gratuito."
   },
-  "title": "Meta Tag Generator",
-  "description": "Generate SEO meta, Open Graph and Twitter Card tags with a live social share preview.",
-  "howToUse": "Fill in the site title, description, URL and image. See a live Facebook and Twitter share preview, then copy the generated HTML.",
-  "pageTitle": "Title",
-  "pageDescription": "Description",
+  "title": "Generador de meta tags",
+  "description": "Genera meta tags SEO, Open Graph y Twitter Card con vista previa de compartir en redes en vivo.",
+  "howToUse": "Rellena el título, la descripción, la URL y la imagen para generar meta tags SEO, Open Graph y Twitter Card. Previsualiza la tarjeta social y la vista previa SERP, luego copia canonical, robots y og tags como HTML.",
+  "pageTitle": "Título",
+  "pageDescription": "Descripción",
   "url": "URL",
-  "image": "Image URL",
-  "siteName": "Site Name",
+  "image": "URL de imagen",
+  "siteName": "Nombre del sitio",
   "twitterSite": "Twitter @handle",
-  "generate": "Generate",
-  "copyHtml": "Copy HTML",
-  "reset": "Reset",
-  "previewFacebook": "Facebook Preview",
-  "previewTwitter": "Twitter Preview",
-  "outputHtml": "Generated HTML"
+  "generate": "Generar",
+  "copyHtml": "Copiar HTML",
+  "reset": "Restablecer",
+  "previewFacebook": "Vista previa Facebook",
+  "previewTwitter": "Vista previa Twitter",
+  "outputHtml": "HTML generado"
 }

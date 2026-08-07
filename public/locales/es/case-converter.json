@@ -1,16 +1,16 @@
 {
   "seo": {
-    "title": "Case Converter Online - Upper, Lower, Title, Camel",
-    "description": "Convert text to uppercase, lowercase, title, camelCase, snake_case, kebab-case. Free."
+    "title": "Conversor de mayúsculas y minúsculas - Camel, Snake, Kebab Case",
+    "description": "Conversor gratuito de mayúsculas y minúsculas para alternar mayúsculas, minúsculas, título, camelCase, snake_case y kebab-case. También soporta pascal case y constant case."
   },
-  "title": "Case Converter",
-  "description": "Convert text between uppercase, lowercase, title, camelCase, snake_case, kebab-case and more.",
-  "howToUse": "Paste or type your text, choose a target case mode, and the result updates instantly. Click Copy to copy the result to your clipboard.",
-  "inputPlaceholder": "Enter your text here...",
+  "title": "Conversor de mayúsculas y minúsculas",
+  "description": "Convierte texto entre mayúsculas, minúsculas, título, camelCase, snake_case, kebab-case y más.",
+  "howToUse": "Pega o escribe tu texto y elige un formato de destino. El conversor alterna al instante entre mayúsculas, minúsculas, título, camelCase, snake_case, kebab-case, pascal case y constant case. Haz clic en Copiar para copiar el resultado.",
+  "inputPlaceholder": "Escribe tu texto aquí...",
   "modes": {
-    "upper": "UPPER CASE",
-    "lower": "lower case",
-    "title": "Title Case",
+    "upper": "MAYÚSCULAS",
+    "lower": "minúsculas",
+    "title": "Tipo Título",
     "camel": "camelCase",
     "pascal": "PascalCase",
     "snake": "snake_case",

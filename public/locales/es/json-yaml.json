@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "JSON to YAML Converter & JSON Formatter Online Free",
-    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, and diff JSON. Free, local browser processing."
+    "title": "Conversor JSON a YAML y formateador, validador JSON online gratis",
+    "description": "Convierte JSON a YAML y YAML a JSON. Formatea, minifica, valida y compara JSON, exporta a CSV. Formateador y beautifier JSON online gratuito, 100% local en el navegador."
   },
-  "title": "JSON YAML Converter",
-  "description": "Convert between JSON and YAML, format and minify JSON, and diff two JSON documents.",
-  "howToUse": "Paste JSON or YAML in the input box. Use Format, Minify, To YAML, or To JSON. Toggle Diff and paste a second JSON to compare.",
-  "inputPlaceholder": "Paste JSON or YAML here...",
-  "outputPlaceholder": "Result...",
-  "formatJson": "Format JSON",
-  "minifyJson": "Minify JSON",
-  "toYaml": "To YAML",
-  "toJson": "To JSON",
+  "title": "Conversor JSON YAML",
+  "description": "Convierte entre JSON y YAML, formatea y minifica JSON, y compara dos documentos JSON.",
+  "howToUse": "Pega JSON o YAML para convertir entre los formatos JSON a YAML y YAML a JSON. Usa el formateador, beautifier, minificador y validador JSON, ejecuta un diff JSON, o imprime y exporta a CSV, todo localmente.",
+  "inputPlaceholder": "Pega JSON o YAML aquí...",
+  "outputPlaceholder": "Resultado...",
+  "formatJson": "Formatear JSON",
+  "minifyJson": "Minificar JSON",
+  "toYaml": "A YAML",
+  "toJson": "A JSON",
   "diff": "Diff",
-  "csv": "Export CSV",
-  "secondInput": "Second JSON (for Diff)"
+  "csv": "Exportar CSV",
+  "secondInput": "Segundo JSON (para Diff)"
 }

@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Hash Generator Online - MD5, SHA1, SHA256, SHA512",
-    "description": "Generate MD5, SHA1, SHA256, SHA512 hashes from text. Free, local browser."
+    "title": "Generador de hashes online - MD5, SHA1, SHA256, SHA512 gratis",
+    "description": "Generador gratuito de hashes para cifrar texto con MD5, SHA1, SHA256 y SHA512. Genera checksums y hashes — generador MD5 y SHA256, todo localmente en tu navegador."
   },
-  "title": "Hash Generator",
-  "description": "Generate MD5, SHA-1, SHA-256 and SHA-512 hashes from text, all in your browser.",
-  "howToUse": "Type or paste text, choose a hash algorithm, and the hash updates instantly. Copy with one click.",
-  "inputPlaceholder": "Enter text to hash...",
-  "algorithm": "Algorithm"
+  "title": "Generador de hashes",
+  "description": "Genera hashes MD5, SHA-1, SHA-256 y SHA-512 a partir de texto, todo en tu navegador.",
+  "howToUse": "Escribe o pega texto y elige un algoritmo: el generador de hashes produce checksums MD5, SHA1, SHA256 y SHA512 al instante. Copia cualquier resultado de hash con un clic; todo el procesamiento es local.",
+  "inputPlaceholder": "Escribe el texto a cifrar...",
+  "algorithm": "Algoritmo"
 }

@@ -1,20 +1,20 @@
 {
   "seo": {
-    "title": "Free Online Developer & Game-Dev Tools | 100% Local Browser Processing",
-    "description": "Free online developer and game-dev tools. JSON YAML converter, pixel art palette generator, meta tag generator. 100% local processing, no upload, no signup."
+    "title": "Herramientas online para devs y game-dev | Procesamiento 100% local",
+    "description": "Herramientas online gratuitas para desarrolladores y game-dev. Conversor JSON YAML, generador de paletas pixel art, generador de meta tags. Procesamiento 100% local, sin subida, sin registro."
   },
   "hero": {
-    "title": "Free Online Developer & Game-Dev Tools",
-    "subtitle": "100% Local Browser Processing · No Upload · Free · No-Signup",
-    "cta": "Explore Tools"
+    "title": "Herramientas online gratuitas para desarrolladores y game-dev",
+    "subtitle": "Procesamiento 100% local en el navegador · Sin subida · Gratis · Sin registro",
+    "cta": "Explorar herramientas"
   },
   "howItWorks": {
-    "title": "How It Works",
-    "step1Title": "Pick a Tool",
-    "step1Desc": "Choose from 10+ free developer and game-dev tools.",
-    "step2Title": "Process Locally",
-    "step2Desc": "All computation runs in your browser. Nothing is uploaded.",
-    "step3Title": "Copy or Download",
-    "step3Desc": "Instantly copy results or download output files."
+    "title": "Cómo funciona",
+    "step1Title": "Elige una herramienta",
+    "step1Desc": "Elige entre más de 10 herramientas gratuitas para desarrolladores y game-dev.",
+    "step2Title": "Procesa localmente",
+    "step2Desc": "Todo el procesamiento se ejecuta en tu navegador. Nada se sube.",
+    "step3Title": "Copia o descarga",
+    "step3Desc": "Copia los resultados al instante o descarga los archivos de salida."
   }
 }

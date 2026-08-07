@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Privacy Policy - DevToolHive",
-    "description": "All tools process data locally. No upload, no registration. Read our privacy policy."
+    "title": "プライバシーポリシー - DevToolHive",
+    "description": "すべてのツールはローカルでデータを処理します。アップロード不要、登録不要。プライバシーポリシーをご覧ください。"
   },
-  "title": "Privacy Policy",
-  "updated": "Last updated: 2026",
+  "title": "プライバシーポリシー",
+  "updated": "最終更新：2026年",
   "sections": [
-    { "heading": "1. Local Browser Processing", "text": "All tools run entirely in your browser. We do not transmit, store, or process any data you input (text, images, files) on any server. Inputs never leave your device." },
-    { "heading": "2. Information We Do Not Collect", "text": "We do not require registration or accounts. We do not collect personal data such as names, emails, or addresses. We do not store your tool inputs or outputs." },
-    { "heading": "3. Cookies and Google AdSense", "text": "We use Google AdSense to display ads. Google and its partners may use cookies to serve ads based on your prior visits. You can opt out of personalized advertising at Google's Ads Settings." },
-    { "heading": "4. Consent Mode v2", "text": "We implement Google Consent Mode v2. On first visit you can Accept or Reject non-essential cookies. Your choice is stored locally in your browser." },
-    { "heading": "5. Third-Party Links", "text": "Our site may contain links to third-party sites. We are not responsible for their privacy practices." },
-    { "heading": "6. Children's Privacy", "text": "Our site is not directed to children under 13. We do not knowingly collect information from children." },
-    { "heading": "7. Changes to This Policy", "text": "We may update this policy. Changes are posted on this page." },
-    { "heading": "8. Contact", "text": "For privacy questions, contact us at the email listed in the footer." }
+    { "heading": "1. ローカルブラウザ処理", "text": "すべてのツールはブラウザ内で完全に実行されます。入力したデータ（テキスト、画像、ファイル）をサーバーに送信・保存・処理することは一切ありません。入力内容がデバイスから外に出ることはありません。" },
+    { "heading": "2. 収集しない情報", "text": "登録やアカウントは必要ありません。氏名、メールアドレス、住所などの個人データは収集しません。ツールの入力や出力も保存しません。" },
+    { "heading": "3. Cookie と Google AdSense", "text": "広告表示に Google AdSense を使用しています。Google およびそのパートナーは、過去のアクセスに基づく広告を配信するために Cookie を使用する場合があります。Google の広告設定でパーソナライズ広告をオプトアウトできます。" },
+    { "heading": "4. Consent Mode v2", "text": "Google Consent Mode v2 を実装しています。初回アクセス時に必須以外の Cookie の許可または拒否を選択できます。選択内容はブラウザのローカルに保存されます。" },
+    { "heading": "5. サードパーティリンク", "text": "当サイトにはサードパーティサイトへのリンクが含まれる場合があります。それらのプライバシー慣行については責任を負いません。" },
+    { "heading": "6. 児童のプライバシー", "text": "当サイトは13歳未満の児童向けではありません。児童から意図的に情報を収集することはありません。" },
+    { "heading": "7. 本ポリシーの変更", "text": "本ポリシーを更新する場合があります。変更内容はこのページに掲載されます。" },
+    { "heading": "8. お問い合わせ", "text": "プライバシーに関するご質問は、フッターに記載のメールアドレスまでお問い合わせください。" }
   ]
 }

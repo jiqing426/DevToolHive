@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Image to Text OCR Online - Extract Text Free",
-    "description": "Extract text from images via OCR, runs locally. Free online image to text tool."
+    "title": "画像からテキスト OCR オンライン - 画像からテキスト抽出 無料",
+    "description": "無料のオンライン OCR で画像からテキストを抽出。JPG をテキストに、PNG をテキストに、画像をテキストに変換。100%ローカルで動作する画像テキスト変換ツール。"
   },
-  "title": "Image OCR",
-  "description": "Extract text from images using OCR, running entirely in your browser. Supports English and Simplified Chinese. Free, no upload.",
-  "howToUse": "Upload an image, choose a recognition language (English or Simplified Chinese), and click Recognize. Progress is shown live. Copy the extracted text with one click. All processing is local — nothing is uploaded.",
-  "uploadPlaceholder": "Upload an image",
-  "recognize": "Recognize",
-  "language": "Language",
-  "result": "Result",
-  "recognizing": "Recognizing...",
+  "title": "画像OCRツール",
+  "description": "OCR を使用して画像からテキストを抽出します。ブラウザ内で完全に動作。英語と簡体字中国語に対応。無料、アップロード不要。",
+  "howToUse": "画像をアップロードし、言語を選んで無料 OCR オンラインを実行してください。画像テキスト変換ツールが画像からテキストを抽出（JPG/PNG をテキストに）します。すべてブラウザ内で動作し、アップロード不要です。",
+  "uploadPlaceholder": "画像をアップロード",
+  "recognize": "認識",
+  "language": "言語",
+  "result": "結果",
+  "recognizing": "認識中...",
   "languages": {
-    "english": "English",
-    "chinese": "Chinese (Simplified)"
+    "english": "英語",
+    "chinese": "中国語（簡体字）"
   }
 }

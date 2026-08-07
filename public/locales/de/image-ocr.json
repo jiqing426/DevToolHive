@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Image to Text OCR Online - Extract Text Free",
-    "description": "Extract text from images via OCR, runs locally. Free online image to text tool."
+    "title": "Bild zu Text OCR Online - Text aus Bild extrahieren Kostenlos",
+    "description": "Text aus Bild extrahieren mit kostenlosem Online-OCR. Wandeln Sie JPG in Text, PNG in Text und Bild in Text um – ein Bild-zu-Text-Konverter, der zu 100% lokal läuft."
   },
-  "title": "Image OCR",
-  "description": "Extract text from images using OCR, running entirely in your browser. Supports English and Simplified Chinese. Free, no upload.",
-  "howToUse": "Upload an image, choose a recognition language (English or Simplified Chinese), and click Recognize. Progress is shown live. Copy the extracted text with one click. All processing is local — nothing is uploaded.",
-  "uploadPlaceholder": "Upload an image",
-  "recognize": "Recognize",
-  "language": "Language",
-  "result": "Result",
-  "recognizing": "Recognizing...",
+  "title": "Bild-OCR",
+  "description": "Extrahiert Text aus Bildern mit OCR, vollständig in Ihrem Browser. Unterstützt Englisch und vereinfachtes Chinesisch. Kostenlos, kein Upload.",
+  "howToUse": "Laden Sie ein Bild hoch und wählen Sie eine Sprache, um kostenloses OCR online auszuführen. Der Bild-zu-Text-Konverter extrahiert Text aus dem Bild (JPG/PNG zu Text) und läuft vollständig in Ihrem Browser ohne Upload.",
+  "uploadPlaceholder": "Bild hochladen",
+  "recognize": "Erkennen",
+  "language": "Sprache",
+  "result": "Ergebnis",
+  "recognizing": "Wird erkannt...",
   "languages": {
-    "english": "English",
-    "chinese": "Chinese (Simplified)"
+    "english": "Englisch",
+    "chinese": "Chinesisch (vereinfacht)"
   }
 }

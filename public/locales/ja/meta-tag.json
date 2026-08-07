@@ -1,21 +1,21 @@
 {
   "seo": {
-    "title": "Meta Tag & Open Graph Generator - Free SEO Tool",
-    "description": "Generate SEO meta, Open Graph and Twitter Card tags with live social preview. Free online."
+    "title": "メタタグ & Open Graph 生成ツール - 無料 SEO メタタグツール",
+    "description": "SEO メタタグ、Open Graph、Twitter Card タグをライブソーシャルプレビュー付きで生成。og タグ、canonical、robots ディレクティブを構築。無料のオンラインメタタグ生成ツール。"
   },
-  "title": "Meta Tag Generator",
-  "description": "Generate SEO meta, Open Graph and Twitter Card tags with a live social share preview.",
-  "howToUse": "Fill in the site title, description, URL and image. See a live Facebook and Twitter share preview, then copy the generated HTML.",
-  "pageTitle": "Title",
-  "pageDescription": "Description",
+  "title": "メタタグ生成ツール",
+  "description": "SEO メタ、Open Graph、Twitter Card タグをライブソーシャルシェアプレビュー付きで生成します。",
+  "howToUse": "タイトル、説明、URL、画像を入力して SEO メタタグ、Open Graph、Twitter Card タグを生成してください。ソーシャルシェアカードと SERP プレビューを確認し、canonical、robots、og タグを HTML としてコピーできます。",
+  "pageTitle": "タイトル",
+  "pageDescription": "説明",
   "url": "URL",
-  "image": "Image URL",
-  "siteName": "Site Name",
-  "twitterSite": "Twitter @handle",
-  "generate": "Generate",
-  "copyHtml": "Copy HTML",
-  "reset": "Reset",
-  "previewFacebook": "Facebook Preview",
-  "previewTwitter": "Twitter Preview",
-  "outputHtml": "Generated HTML"
+  "image": "画像 URL",
+  "siteName": "サイト名",
+  "twitterSite": "Twitter @ハンドル",
+  "generate": "生成",
+  "copyHtml": "HTML をコピー",
+  "reset": "リセット",
+  "previewFacebook": "Facebook プレビュー",
+  "previewTwitter": "Twitter プレビュー",
+  "outputHtml": "生成された HTML"
 }

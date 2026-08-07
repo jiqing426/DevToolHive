@@ -1,16 +1,16 @@
 {
   "seo": {
-    "title": "Unix Timestamp Converter - UTC Date Time Online",
-    "description": "Convert Unix timestamp to date and back. Seconds/milliseconds, timezone. Free local tool."
+    "title": "Convertitore Unix timestamp - Epoch in data online gratuito",
+    "description": "Convertitore Unix timestamp e epoch gratuito. Converti timestamp in data e data in timestamp, con ora UTC, secondi e millisecondi."
   },
-  "title": "Timestamp Converter",
-  "description": "Convert between Unix timestamp and human-readable date. Supports seconds and milliseconds.",
-  "howToUse": "Enter a Unix timestamp and choose seconds or milliseconds to see the ISO and local date. Or pick a date to get its timestamp. Use Copy to copy results.",
-  "timestampPlaceholder": "Enter Unix timestamp",
-  "seconds": "Seconds",
-  "milliseconds": "Milliseconds",
-  "iso": "ISO Time",
-  "local": "Local Time",
-  "pickDate": "Pick a Date",
+  "title": "Convertitore timestamp",
+  "description": "Converti tra Unix timestamp e data leggibile. Supporta secondi e millisecondi.",
+  "howToUse": "Inserisci un Unix timestamp e scegli secondi o millisecondi — questo convertitore epoch mostra la data ISO e locale. Oppure scegli una data per convertire la data in timestamp e copia l'ora UTC con un clic.",
+  "timestampPlaceholder": "Inserisci Unix timestamp",
+  "seconds": "Secondi",
+  "milliseconds": "Millisecondi",
+  "iso": "Ora ISO",
+  "local": "Ora locale",
+  "pickDate": "Scegli una data",
   "resultTimestamp": "Timestamp"
 }

@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Color Converter - HEX, RGB, HSL Format Tool",
-    "description": "Convert colors between HEX, RGB, HSL. Free online color converter."
+    "title": "Convertisseur de couleur - HEX, RGB, HSL en ligne",
+    "description": "Convertir les couleurs entre HEX, RGB, HSL. Convertisseur de couleur gratuit en ligne."
   },
-  "title": "Color Converter",
-  "description": "Convert colors between HEX, RGB and HSL formats with a live preview.",
-  "howToUse": "Enter a color in any format (e.g. #f59e0b, rgb(245,158,11), hsl(43,92%,50%)). The other formats and a preview update instantly.",
-  "inputPlaceholder": "#f59e0b or rgb(...) or hsl(...)",
-  "preview": "Preview"
+  "title": "Convertisseur de couleur",
+  "description": "Convertir les couleurs entre HEX, RGB et HSL avec un aperçu en direct.",
+  "howToUse": "Saisissez une couleur dans n'importe quel format (ex. #f59e0b, rgb(245,158,11), hsl(43,92%,50%)). Les autres formats et l'aperçu se mettent à jour instantanément.",
+  "inputPlaceholder": "#f59e0b ou rgb(...) ou hsl(...)",
+  "preview": "Aperçu"
 }

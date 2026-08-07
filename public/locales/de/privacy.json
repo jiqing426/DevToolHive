@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Privacy Policy - DevToolHive",
-    "description": "All tools process data locally. No upload, no registration. Read our privacy policy."
+    "title": "Datenschutz - DevToolHive",
+    "description": "Alle Werkzeuge verarbeiten Daten lokal. Kein Upload, keine Registrierung. Lesen Sie unsere Datenschutzerklärung."
   },
-  "title": "Privacy Policy",
-  "updated": "Last updated: 2026",
+  "title": "Datenschutzerklärung",
+  "updated": "Zuletzt aktualisiert: 2026",
   "sections": [
-    { "heading": "1. Local Browser Processing", "text": "All tools run entirely in your browser. We do not transmit, store, or process any data you input (text, images, files) on any server. Inputs never leave your device." },
-    { "heading": "2. Information We Do Not Collect", "text": "We do not require registration or accounts. We do not collect personal data such as names, emails, or addresses. We do not store your tool inputs or outputs." },
-    { "heading": "3. Cookies and Google AdSense", "text": "We use Google AdSense to display ads. Google and its partners may use cookies to serve ads based on your prior visits. You can opt out of personalized advertising at Google's Ads Settings." },
-    { "heading": "4. Consent Mode v2", "text": "We implement Google Consent Mode v2. On first visit you can Accept or Reject non-essential cookies. Your choice is stored locally in your browser." },
-    { "heading": "5. Third-Party Links", "text": "Our site may contain links to third-party sites. We are not responsible for their privacy practices." },
-    { "heading": "6. Children's Privacy", "text": "Our site is not directed to children under 13. We do not knowingly collect information from children." },
-    { "heading": "7. Changes to This Policy", "text": "We may update this policy. Changes are posted on this page." },
-    { "heading": "8. Contact", "text": "For privacy questions, contact us at the email listed in the footer." }
+    { "heading": "1. Lokale Browser-Verarbeitung", "text": "Alle Werkzeuge laufen vollständig in Ihrem Browser. Wir übertragen, speichern oder verarbeiten keine Daten, die Sie eingeben (Text, Bilder, Dateien), auf einem Server. Eingaben verlassen niemals Ihr Gerät." },
+    { "heading": "2. Informationen, die wir nicht erfassen", "text": "Wir verlangen keine Registrierung oder Konten. Wir erfassen keine personenbezogenen Daten wie Namen, E-Mails oder Adressen. Wir speichern Ihre Werkzeug-Eingaben oder -Ausgaben nicht." },
+    { "heading": "3. Cookies und Google AdSense", "text": "Wir verwenden Google AdSense, um Anzeigen einzublenden. Google und seine Partner können Cookies verwenden, um Anzeigen basierend auf Ihren früheren Besuchen zu schalten. Sie können personalisierte Werbung in den Google Ad-Einstellungen deaktivieren." },
+    { "heading": "4. Consent Mode v2", "text": "Wir implementieren Google Consent Mode v2. Beim ersten Besuch können Sie nicht-essentielle Cookies akzeptieren oder ablehnen. Ihre Wahl wird lokal in Ihrem Browser gespeichert." },
+    { "heading": "5. Links zu Drittanbietern", "text": "Unsere Website kann Links zu Websites Dritter enthalten. Wir sind nicht für deren Datenschutzpraktiken verantwortlich." },
+    { "heading": "6. Datenschutz für Kinder", "text": "Unsere Website richtet sich nicht an Kinder unter 13 Jahren. Wir erfassen wissentlich keine Informationen von Kindern." },
+    { "heading": "7. Änderungen dieser Richtlinie", "text": "Wir können diese Richtlinie aktualisieren. Änderungen werden auf dieser Seite veröffentlicht." },
+    { "heading": "8. Kontakt", "text": "Bei Fragen zum Datenschutz kontaktieren Sie uns unter der im Footer angegebenen E-Mail." }
   ]
 }

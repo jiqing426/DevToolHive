@@ -1,17 +1,17 @@
 {
   "seo": {
-    "title": "Image Compressor Online - PNG, JPEG, WebP Free",
-    "description": "Compress images to reduce size. PNG/JPEG/WebP. 100% local, no upload."
+    "title": "画像圧縮ツール オンライン - PNG、JPEG、WebP を無料圧縮",
+    "description": "画像サイズを縮小するオンライン画像圧縮。PNG、JPEG、WebP 対応の画像最適化ツール。PNG、JPEG、WebP ファイルをアップロード不要で100%ローカル圧縮。"
   },
-  "title": "Image Compressor",
-  "description": "Compress PNG, JPEG, and WebP images right in your browser. Adjust quality, preview the result, and download — 100% local, no upload.",
-  "howToUse": "Upload an image (PNG/JPEG/WebP), drag the quality slider to tune compression, and preview the result with file sizes and reduction rate. Click Download to save the compressed image. Nothing is uploaded — all processing happens locally.",
-  "uploadPlaceholder": "Choose an image (PNG, JPEG, WebP)",
-  "originalSize": "Original Size",
-  "compressedSize": "Compressed Size",
-  "reduction": "Reduction",
-  "quality": "Quality",
-  "download": "Download",
-  "originalPreview": "Original",
-  "compressedPreview": "Compressed"
+  "title": "画像圧縮ツール",
+  "description": "ブラウザ内で PNG、JPEG、WebP 画像を圧縮します。品質を調整し、結果をプレビュー、ダウンロード。100%ローカル、アップロード不要。",
+  "howToUse": "画像（PNG、JPEG、WebP）をアップロードし、品質スライダーで画像をオンライン圧縮してファイルサイズを縮小してください。圧縮率付きのプレビュー結果を確認し、ダウンロードできます。すべてローカルで処理されます。",
+  "uploadPlaceholder": "画像を選択（PNG、JPEG、WebP）",
+  "originalSize": "元のサイズ",
+  "compressedSize": "圧縮後サイズ",
+  "reduction": "圧縮率",
+  "quality": "品質",
+  "download": "ダウンロード",
+  "originalPreview": "元画像",
+  "compressedPreview": "圧縮後"
 }

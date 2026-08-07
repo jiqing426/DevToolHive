@@ -1,43 +1,43 @@
 {
   "brand": "DevToolHive",
-  "slogan": "Free Online Developer & Game-Dev Tools | 100% Local Browser Processing",
+  "slogan": "無料オンライン開発者＆ゲーム開発ツール | 100%ローカルブラウザ処理",
   "sellingPoints": {
-    "localProcessing": "100% Local Browser Processing",
-    "noUpload": "No Data Upload",
-    "freeForever": "Free Forever",
-    "noSignup": "No Registration Required"
+    "localProcessing": "100%ローカルブラウザ処理",
+    "noUpload": "データ送信なし",
+    "freeForever": "永久無料",
+    "noSignup": "登録不要"
   },
   "nav": {
-    "tools": "Tools",
-    "language": "Language",
-    "home": "Home",
-    "menu": "Menu"
+    "tools": "ツール",
+    "language": "言語",
+    "home": "ホーム",
+    "menu": "メニュー"
   },
   "footer": {
     "copyright": "DevToolHive © 2026",
-    "about": "About",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "about": "概要",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
   },
   "cookie": {
-    "message": "We use cookies for Google AdSense and traffic analytics. You can accept or reject non-essential cookies.",
-    "accept": "Accept All Cookies",
-    "reject": "Reject Non-Essential"
+    "message": "Google AdSenseとトラフィック分析のためにCookieを使用します。必須以外のCookieは許可または拒否できます。",
+    "accept": "すべてのCookieを許可",
+    "reject": "必須以外を拒否"
   },
   "actions": {
-    "copy": "Copy",
-    "copied": "Copied!",
-    "download": "Download",
-    "reset": "Reset",
-    "clear": "Clear",
-    "convert": "Convert",
-    "format": "Format",
-    "minify": "Minify",
-    "add": "Add",
-    "delete": "Delete",
-    "generate": "Generate",
-    "upload": "Upload",
-    "moveUp": "Move Up",
-    "moveDown": "Move Down"
+    "copy": "コピー",
+    "copied": "コピーしました！",
+    "download": "ダウンロード",
+    "reset": "リセット",
+    "clear": "クリア",
+    "convert": "変換",
+    "format": "整形",
+    "minify": "圧縮",
+    "add": "追加",
+    "delete": "削除",
+    "generate": "生成",
+    "upload": "アップロード",
+    "moveUp": "上へ",
+    "moveDown": "下へ"
   }
 }

@@ -1,20 +1,20 @@
 {
   "seo": {
-    "title": "Free Online Developer & Game-Dev Tools | 100% Local Browser Processing",
-    "description": "Free online developer and game-dev tools. JSON YAML converter, pixel art palette generator, meta tag generator. 100% local processing, no upload, no signup."
+    "title": "無料オンライン開発者＆ゲーム開発ツール | 100%ローカルブラウザ処理",
+    "description": "無料のオンライン開発者・ゲーム開発ツール。JSON YAML 変換、ピクセルアートパレット生成、メタタグ生成ツール。100%ローカル処理、アップロード不要、登録不要。"
   },
   "hero": {
-    "title": "Free Online Developer & Game-Dev Tools",
-    "subtitle": "100% Local Browser Processing · No Upload · Free · No-Signup",
-    "cta": "Explore Tools"
+    "title": "無料オンライン開発者＆ゲーム開発ツール",
+    "subtitle": "100%ローカルブラウザ処理 · 送信不要 · 無料 · 登録不要",
+    "cta": "ツールを見る"
   },
   "howItWorks": {
-    "title": "How It Works",
-    "step1Title": "Pick a Tool",
-    "step1Desc": "Choose from 10+ free developer and game-dev tools.",
-    "step2Title": "Process Locally",
-    "step2Desc": "All computation runs in your browser. Nothing is uploaded.",
-    "step3Title": "Copy or Download",
-    "step3Desc": "Instantly copy results or download output files."
+    "title": "使い方",
+    "step1Title": "ツールを選ぶ",
+    "step1Desc": "10種類以上の無料開発者・ゲーム開発ツールから選べます。",
+    "step2Title": "ローカルで処理",
+    "step2Desc": "すべての処理はブラウザ内で実行され、データはアップロードされません。",
+    "step3Title": "コピーまたはダウンロード",
+    "step3Desc": "結果を即座にコピーするか、出力ファイルをダウンロードできます。"
   }
 }

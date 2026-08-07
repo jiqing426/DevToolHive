@@ -1,16 +1,16 @@
 {
   "seo": {
-    "title": "Case Converter Online - Upper, Lower, Title, Camel",
-    "description": "Convert text to uppercase, lowercase, title, camelCase, snake_case, kebab-case. Free."
+    "title": "ケース変換ツール - 大文字・小文字・タイトル・Camel・Snake Case",
+    "description": "無料のケース変換ツール。大文字、小文字、タイトルケース、camelCase、snake_case、kebab-case に変換。PascalCase と CONSTANT_CASE も対応。"
   },
-  "title": "Case Converter",
-  "description": "Convert text between uppercase, lowercase, title, camelCase, snake_case, kebab-case and more.",
-  "howToUse": "Paste or type your text, choose a target case mode, and the result updates instantly. Click Copy to copy the result to your clipboard.",
-  "inputPlaceholder": "Enter your text here...",
+  "title": "ケース変換ツール",
+  "description": "テキストを大文字、小文字、タイトル、camelCase、snake_case、kebab-case などに変換します。",
+  "howToUse": "テキストを貼り付けるか入力し、変換先のケースを選んでください。大文字・小文字・タイトルケース・camelCase・snake_case・kebab-case・PascalCase・CONSTANT_CASE に即座に変換します。「コピー」をクリックして結果をコピーできます。",
+  "inputPlaceholder": "ここにテキストを入力...",
   "modes": {
-    "upper": "UPPER CASE",
-    "lower": "lower case",
-    "title": "Title Case",
+    "upper": "大文字",
+    "lower": "小文字",
+    "title": "タイトルケース",
     "camel": "camelCase",
     "pascal": "PascalCase",
     "snake": "snake_case",

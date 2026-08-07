@@ -1,12 +1,12 @@
 {
-  "json-yaml-converter": { "name": "JSON YAML Converter", "desc": "Convert JSON to YAML, format and diff JSON online." },
-  "pixel-art-palette-generator": { "name": "Pixel Art Palette Generator", "desc": "Create 8-bit/16-bit pixel art color palettes." },
-  "meta-tag-generator": { "name": "Meta Tag Generator", "desc": "Generate SEO meta, Open Graph and Twitter Card tags." },
-  "case-converter": { "name": "Case Converter", "desc": "Convert text to upper, lower, title, camel, snake case." },
-  "timestamp-converter": { "name": "Timestamp Converter", "desc": "Convert Unix timestamp to date and back." },
-  "hash-generator": { "name": "Hash Generator", "desc": "Generate MD5, SHA1, SHA256, SHA512 hashes." },
-  "color-converter": { "name": "Color Converter", "desc": "Convert colors between HEX, RGB, HSL." },
-  "utm-link-generator": { "name": "UTM Link Generator", "desc": "Build UTM tracking URLs for campaigns." },
-  "image-compressor": { "name": "Image Compressor", "desc": "Compress PNG, JPEG, WebP in your browser." },
-  "image-ocr": { "name": "Image OCR", "desc": "Extract text from images locally with OCR." }
+  "json-yaml-converter": { "name": "Convertitore JSON YAML", "desc": "Converti JSON in YAML, formatta e confronta JSON online." },
+  "pixel-art-palette-generator": { "name": "Generatore palette pixel art", "desc": "Crea palette di colori pixel art 8-bit/16-bit." },
+  "meta-tag-generator": { "name": "Generatore meta tag", "desc": "Genera meta SEO, Open Graph e Twitter Card." },
+  "case-converter": { "name": "Convertitore case", "desc": "Converti testo in maiuscolo, minuscolo, title, camel, snake case." },
+  "timestamp-converter": { "name": "Convertitore timestamp", "desc": "Converti Unix timestamp in data e viceversa." },
+  "hash-generator": { "name": "Generatore hash", "desc": "Genera hash MD5, SHA1, SHA256, SHA512." },
+  "color-converter": { "name": "Convertitore colori", "desc": "Converti colori tra HEX, RGB, HSL." },
+  "utm-link-generator": { "name": "Generatore link UTM", "desc": "Crea URL UTM di tracciamento per campagne." },
+  "image-compressor": { "name": "Compressore immagini", "desc": "Comprimi PNG, JPEG, WebP nel tuo browser." },
+  "image-ocr": { "name": "OCR immagini", "desc": "Estrai testo dalle immagini in locale con OCR." }
 }

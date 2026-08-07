@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "JSON to YAML Converter & JSON Formatter Online Free",
-    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, and diff JSON. Free, local browser processing."
+    "title": "JSON to YAML 変換ツール & JSON 整形・バリデーター オンライン無料",
+    "description": "JSON を YAML に、YAML を JSON に変換。JSON の整形、圧縮、バリデーション、差分表示、CSV エクスポートに対応。無料のオンライン JSON フォーマッター兼ビューティファイア、100%ローカルブラウザ処理。"
   },
-  "title": "JSON YAML Converter",
-  "description": "Convert between JSON and YAML, format and minify JSON, and diff two JSON documents.",
-  "howToUse": "Paste JSON or YAML in the input box. Use Format, Minify, To YAML, or To JSON. Toggle Diff and paste a second JSON to compare.",
-  "inputPlaceholder": "Paste JSON or YAML here...",
-  "outputPlaceholder": "Result...",
-  "formatJson": "Format JSON",
-  "minifyJson": "Minify JSON",
-  "toYaml": "To YAML",
-  "toJson": "To JSON",
-  "diff": "Diff",
-  "csv": "Export CSV",
-  "secondInput": "Second JSON (for Diff)"
+  "title": "JSON YAML 変換ツール",
+  "description": "JSON と YAML を相互変換し、JSON の整形・圧縮、2つの JSON ドキュメントの差分表示を行います。",
+  "howToUse": "JSON または YAML を貼り付けて、JSON と YAML を相互変換してください。JSON フォーマッター、ビューティファイア、圧縮、バリデーター、JSON 差分、整形出力や CSV エクスポートも利用可能。すべてローカルで処理されます。",
+  "inputPlaceholder": "ここに JSON または YAML を貼り付け...",
+  "outputPlaceholder": "結果...",
+  "formatJson": "JSON 整形",
+  "minifyJson": "JSON 圧縮",
+  "toYaml": "YAML へ変換",
+  "toJson": "JSON へ変換",
+  "diff": "差分",
+  "csv": "CSV エクスポート",
+  "secondInput": "2番目の JSON（差分用）"
 }

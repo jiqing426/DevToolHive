@@ -1,16 +1,16 @@
 {
   "seo": {
-    "title": "Unix Timestamp Converter - UTC Date Time Online",
-    "description": "Convert Unix timestamp to date and back. Seconds/milliseconds, timezone. Free local tool."
+    "title": "Unix Timestamp 変換ツール - epoch から日時にオンライン無料変換",
+    "description": "無料の Unix timestamp 変換ツール兼 epoch 変換ツール。timestamp を日付に、日付を timestamp に変換。UTC 時間、秒・ミリ秒対応。"
   },
-  "title": "Timestamp Converter",
-  "description": "Convert between Unix timestamp and human-readable date. Supports seconds and milliseconds.",
-  "howToUse": "Enter a Unix timestamp and choose seconds or milliseconds to see the ISO and local date. Or pick a date to get its timestamp. Use Copy to copy results.",
-  "timestampPlaceholder": "Enter Unix timestamp",
-  "seconds": "Seconds",
-  "milliseconds": "Milliseconds",
-  "iso": "ISO Time",
-  "local": "Local Time",
-  "pickDate": "Pick a Date",
-  "resultTimestamp": "Timestamp"
+  "title": "タイムスタンプ変換ツール",
+  "description": "Unix timestamp と人間が読める日付を相互変換します。秒とミリ秒に対応。",
+  "howToUse": "Unix timestamp を入力し、秒またはミリ秒を選んでください。この epoch 変換ツールが ISO とローカル日時を表示します。また、日付を選んで timestamp に変換したり、UTC 時間をワンクリックでコピーできます。",
+  "timestampPlaceholder": "Unix timestamp を入力",
+  "seconds": "秒",
+  "milliseconds": "ミリ秒",
+  "iso": "ISO 時刻",
+  "local": "ローカル時刻",
+  "pickDate": "日付を選択",
+  "resultTimestamp": "タイムスタンプ"
 }

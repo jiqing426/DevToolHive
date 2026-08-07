@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "JSON to YAML Converter & JSON Formatter Online Free",
-    "description": "Convert JSON to YAML and YAML to JSON. Format, minify, and diff JSON. Free, local browser processing."
+    "title": "JSON zu YAML Konverter & JSON Formatter, Validator Online Kostenlos",
+    "description": "Konvertiert JSON zu YAML und YAML zu JSON. Formatieren, minifizieren, validieren und vergleichen Sie JSON, Export als CSV. Kostenloser Online-JSON-Formatter, 100% lokaler Browser."
   },
-  "title": "JSON YAML Converter",
-  "description": "Convert between JSON and YAML, format and minify JSON, and diff two JSON documents.",
-  "howToUse": "Paste JSON or YAML in the input box. Use Format, Minify, To YAML, or To JSON. Toggle Diff and paste a second JSON to compare.",
-  "inputPlaceholder": "Paste JSON or YAML here...",
-  "outputPlaceholder": "Result...",
-  "formatJson": "Format JSON",
-  "minifyJson": "Minify JSON",
-  "toYaml": "To YAML",
-  "toJson": "To JSON",
+  "title": "JSON-YAML-Konverter",
+  "description": "Konvertiert zwischen JSON und YAML, formatiert und minifiziert JSON und vergleicht zwei JSON-Dokumente.",
+  "howToUse": "Fügen Sie JSON oder YAML ein, um zwischen JSON-zu-YAML- und YAML-zu-JSON-Formaten zu konvertieren. Nutzen Sie den JSON-Formatter, Beautifier, Minifier und Validator, führen Sie einen JSON-Diff aus oder formatieren Sie die Ausgabe und exportieren Sie als CSV – alles lokal.",
+  "inputPlaceholder": "JSON oder YAML hier einfügen...",
+  "outputPlaceholder": "Ergebnis...",
+  "formatJson": "JSON formatieren",
+  "minifyJson": "JSON minifizieren",
+  "toYaml": "Zu YAML",
+  "toJson": "Zu JSON",
   "diff": "Diff",
-  "csv": "Export CSV",
-  "secondInput": "Second JSON (for Diff)"
+  "csv": "CSV exportieren",
+  "secondInput": "Zweites JSON (für Diff)"
 }

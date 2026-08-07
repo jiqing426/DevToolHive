@@ -1,18 +1,18 @@
 {
   "seo": {
-    "title": "Terms of Service - DevToolHive",
-    "description": "Terms of service for using DevToolHive's free online developer tools."
+    "title": "利用規約 - DevToolHive",
+    "description": "DevToolHive の無料オンライン開発者ツール利用規約。"
   },
-  "title": "Terms of Service",
-  "updated": "Last updated: 2026",
+  "title": "利用規約",
+  "updated": "最終更新：2026年",
   "sections": [
-    { "heading": "1. Acceptance", "text": "By using DevToolHive, you agree to these Terms." },
-    { "heading": "2. Use of Tools", "text": "Tools are provided free, as is. You are responsible for your use. Do not use the tools for unlawful purposes." },
-    { "heading": "3. No Warranty", "text": "We provide no warranty regarding accuracy, availability, or fitness for a particular purpose." },
-    { "heading": "4. Limitation of Liability", "text": "We are not liable for any damages arising from use of the site." },
-    { "heading": "5. Advertising", "text": "We display ads via Google AdSense. We are not responsible for third-party ad content." },
-    { "heading": "6. Intellectual Property", "text": "You retain all rights to your inputs. We claim no ownership of your data." },
-    { "heading": "7. Changes", "text": "We may modify tools or Terms at any time." },
-    { "heading": "8. Governing Law", "text": "These Terms are governed by applicable law." }
+    { "heading": "1. 規約への同意", "text": "DevToolHive を使用することで、本規約に同意したものとみなされます。" },
+    { "heading": "2. ツールの利用", "text": "ツールは無料で現状のまま提供されます。ご利用は自己責任でお願いします。違法な目的でツールを使用しないでください。" },
+    { "heading": "3. 保証の否認", "text": "正確性、可用性、特定目的への適合性について、いかなる保証もいたしません。" },
+    { "heading": "4. 責任の制限", "text": "当サイトの利用から生じるいかなる損害についても責任を負いません。" },
+    { "heading": "5. 広告", "text": "Google AdSense で広告を表示しています。サードパーティの広告内容については責任を負いません。" },
+    { "heading": "6. 知的財産", "text": "入力内容の権利はすべてお客様に帰属します。お客様のデータに対する所有権を主張することはありません。" },
+    { "heading": "7. 変更", "text": "ツールまたは本規約をいつでも変更する場合があります。" },
+    { "heading": "8. 準拠法", "text": "本規約は適用される法律に準拠します。" }
   ]
 }

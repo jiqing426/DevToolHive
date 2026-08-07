@@ -1,17 +1,17 @@
 {
   "seo": {
-    "title": "UTM Link Builder - Free UTM URL Generator",
-    "description": "Build UTM tracking URLs with source/medium/campaign/term/content. Free."
+    "title": "UTM Builder - Generador gratuito de enlaces UTM para URLs de campaña",
+    "description": "UTM Builder y generador UTM gratuito para crear URLs de campaña. Crea enlaces UTM y URLs de seguimiento con parámetros source, medium, campaign, term y content."
   },
-  "title": "UTM Link Generator",
-  "description": "Build UTM tracking URLs for your marketing campaigns with a live preview.",
-  "howToUse": "Fill in the base URL and any UTM parameters. The full tracking link is generated live. Copy it with one click.",
-  "url": "Website URL",
+  "title": "Generador de enlaces UTM",
+  "description": "Crea URLs de seguimiento UTM para tus campañas de marketing con vista previa en vivo.",
+  "howToUse": "Rellena la URL base y los parámetros UTM: el UTM Builder genera una URL de seguimiento en vivo. Copia tu enlace UTM con un clic, un generador de URLs de campaña gratuito y generador UTM.",
+  "url": "URL del sitio",
   "urlPlaceholder": "https://example.com/page",
-  "source": "Campaign Source",
-  "medium": "Campaign Medium",
-  "campaign": "Campaign Name",
-  "term": "Campaign Term",
-  "content": "Campaign Content",
-  "result": "Result URL"
+  "source": "Origen de campaña",
+  "medium": "Medio de campaña",
+  "campaign": "Nombre de campaña",
+  "term": "Término de campaña",
+  "content": "Contenido de campaña",
+  "result": "URL resultante"
 }

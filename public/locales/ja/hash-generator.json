@@ -1,11 +1,11 @@
 {
   "seo": {
-    "title": "Hash Generator Online - MD5, SHA1, SHA256, SHA512",
-    "description": "Generate MD5, SHA1, SHA256, SHA512 hashes from text. Free, local browser."
+    "title": "ハッシュ生成ツール - MD5、SHA1、SHA256、SHA512 無料",
+    "description": "無料のハッシュ生成ツール。MD5、SHA1、SHA256、SHA512 でテキストをハッシュ化。チェックサムとハッシュを生成。MD5 ジェネレーター、SHA256 など、すべてブラウザ内でローカル処理。"
   },
-  "title": "Hash Generator",
-  "description": "Generate MD5, SHA-1, SHA-256 and SHA-512 hashes from text, all in your browser.",
-  "howToUse": "Type or paste text, choose a hash algorithm, and the hash updates instantly. Copy with one click.",
-  "inputPlaceholder": "Enter text to hash...",
-  "algorithm": "Algorithm"
+  "title": "ハッシュ生成ツール",
+  "description": "テキストから MD5、SHA-1、SHA-256、SHA-512 ハッシュを生成します。すべてブラウザ内で完結。",
+  "howToUse": "テキストを入力または貼り付け、アルゴリズムを選んでください。ハッシュ生成ツールが MD5、SHA1、SHA256、SHA512 のチェックサムを即座に生成します。ハッシュ結果はワンクリックでコピーでき、すべてローカルで処理されます。",
+  "inputPlaceholder": "ハッシュ化するテキストを入力...",
+  "algorithm": "アルゴリズム"
 }

@@ -1,17 +1,17 @@
 {
   "seo": {
-    "title": "Image Compressor Online - PNG, JPEG, WebP Free",
-    "description": "Compress images to reduce size. PNG/JPEG/WebP. 100% local, no upload."
+    "title": "Compresor de imágenes online - Comprime PNG, JPEG, WebP gratis",
+    "description": "Comprime imagen online para reducir el tamaño de imagen. Un optimizador de imágenes para PNG, JPEG y WebP — comprime archivos PNG, JPEG, WebP 100% local sin subida."
   },
-  "title": "Image Compressor",
-  "description": "Compress PNG, JPEG, and WebP images right in your browser. Adjust quality, preview the result, and download — 100% local, no upload.",
-  "howToUse": "Upload an image (PNG/JPEG/WebP), drag the quality slider to tune compression, and preview the result with file sizes and reduction rate. Click Download to save the compressed image. Nothing is uploaded — all processing happens locally.",
-  "uploadPlaceholder": "Choose an image (PNG, JPEG, WebP)",
-  "originalSize": "Original Size",
-  "compressedSize": "Compressed Size",
-  "reduction": "Reduction",
-  "quality": "Quality",
-  "download": "Download",
+  "title": "Compresor de imágenes",
+  "description": "Comprime imágenes PNG, JPEG y WebP directamente en tu navegador. Ajusta la calidad, previsualiza el resultado y descarga — 100% local, sin subida.",
+  "howToUse": "Sube una imagen (PNG, JPEG o WebP) y ajusta el control de calidad para comprimir imagen online y reducir el tamaño del archivo. Previsualiza el resultado del optimizador con la tasa de reducción y luego descarga; todo el procesamiento es local.",
+  "uploadPlaceholder": "Elige una imagen (PNG, JPEG, WebP)",
+  "originalSize": "Tamaño original",
+  "compressedSize": "Tamaño comprimido",
+  "reduction": "Reducción",
+  "quality": "Calidad",
+  "download": "Descargar",
   "originalPreview": "Original",
-  "compressedPreview": "Compressed"
+  "compressedPreview": "Comprimido"
 }

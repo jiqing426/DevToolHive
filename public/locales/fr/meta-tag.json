@@ -1,21 +1,21 @@
 {
   "seo": {
-    "title": "Meta Tag & Open Graph Generator - Free SEO Tool",
-    "description": "Generate SEO meta, Open Graph and Twitter Card tags with live social preview. Free online."
+    "title": "Générateur de balises meta & Open Graph - Outil SEO gratuit",
+    "description": "Générer des balises SEO meta, Open Graph et Twitter Card avec aperçu social. Gratuit."
   },
-  "title": "Meta Tag Generator",
-  "description": "Generate SEO meta, Open Graph and Twitter Card tags with a live social share preview.",
-  "howToUse": "Fill in the site title, description, URL and image. See a live Facebook and Twitter share preview, then copy the generated HTML.",
-  "pageTitle": "Title",
+  "title": "Générateur de balises meta",
+  "description": "Générer des balises SEO meta, Open Graph et Twitter Card avec un aperçu de partage social en direct.",
+  "howToUse": "Remplissez le titre, la description, l'URL et l'image du site. Voyez un aperçu de partage Facebook et Twitter, puis copiez le HTML généré.",
+  "pageTitle": "Titre",
   "pageDescription": "Description",
   "url": "URL",
-  "image": "Image URL",
-  "siteName": "Site Name",
+  "image": "URL de l'image",
+  "siteName": "Nom du site",
   "twitterSite": "Twitter @handle",
-  "generate": "Generate",
-  "copyHtml": "Copy HTML",
-  "reset": "Reset",
-  "previewFacebook": "Facebook Preview",
-  "previewTwitter": "Twitter Preview",
-  "outputHtml": "Generated HTML"
+  "generate": "Générer",
+  "copyHtml": "Copier HTML",
+  "reset": "Réinitialiser",
+  "previewFacebook": "Aperçu Facebook",
+  "previewTwitter": "Aperçu Twitter",
+  "outputHtml": "HTML généré"
 }

@@ -1,17 +1,17 @@
 {
   "seo": {
-    "title": "UTM Link Builder - Free UTM URL Generator",
-    "description": "Build UTM tracking URLs with source/medium/campaign/term/content. Free."
+    "title": "UTM ビルダー - キャンペーン URL 用無料 UTM リンク生成ツール",
+    "description": "無料の UTM ビルダー兼 UTM 生成ツール。キャンペーン URL ビルダーとして UTM リンクとトラッキング URL を作成。source、medium、campaign、term、content パラメータに対応。"
   },
-  "title": "UTM Link Generator",
-  "description": "Build UTM tracking URLs for your marketing campaigns with a live preview.",
-  "howToUse": "Fill in the base URL and any UTM parameters. The full tracking link is generated live. Copy it with one click.",
-  "url": "Website URL",
+  "title": "UTM リンク生成ツール",
+  "description": "マーケティングキャンペーン用の UTM トラッキング URL をライブプレビュー付きで作成します。",
+  "howToUse": "ベース URL と UTM パラメータを入力してください。UTM ビルダーがトラッキング URL をライブ生成します。UTM リンクをワンクリックでコピーできます。無料のキャンペーン URL ビルダー兼 UTM 生成ツールです。",
+  "url": "ウェブサイト URL",
   "urlPlaceholder": "https://example.com/page",
-  "source": "Campaign Source",
-  "medium": "Campaign Medium",
-  "campaign": "Campaign Name",
-  "term": "Campaign Term",
-  "content": "Campaign Content",
-  "result": "Result URL"
+  "source": "キャンペーン source",
+  "medium": "キャンペーン medium",
+  "campaign": "キャンペーン名",
+  "term": "キャンペーン term",
+  "content": "キャンペーン content",
+  "result": "結果 URL"
 }

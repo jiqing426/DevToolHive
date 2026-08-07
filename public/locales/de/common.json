@@ -1,43 +1,43 @@
 {
   "brand": "DevToolHive",
-  "slogan": "Free Online Developer & Game-Dev Tools | 100% Local Browser Processing",
+  "slogan": "Kostenlose Online-Entwickler- & Game-Dev-Tools | 100% lokale Browser-Verarbeitung",
   "sellingPoints": {
-    "localProcessing": "100% Local Browser Processing",
-    "noUpload": "No Data Upload",
-    "freeForever": "Free Forever",
-    "noSignup": "No Registration Required"
+    "localProcessing": "100% lokale Browser-Verarbeitung",
+    "noUpload": "Kein Daten-Upload",
+    "freeForever": "Dauerhaft kostenlos",
+    "noSignup": "Keine Registrierung erforderlich"
   },
   "nav": {
-    "tools": "Tools",
-    "language": "Language",
-    "home": "Home",
-    "menu": "Menu"
+    "tools": "Werkzeuge",
+    "language": "Sprache",
+    "home": "Startseite",
+    "menu": "Menü"
   },
   "footer": {
     "copyright": "DevToolHive © 2026",
-    "about": "About",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service"
+    "about": "Über uns",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
   },
   "cookie": {
-    "message": "We use cookies for Google AdSense and traffic analytics. You can accept or reject non-essential cookies.",
-    "accept": "Accept All Cookies",
-    "reject": "Reject Non-Essential"
+    "message": "Wir verwenden Cookies für Google AdSense und Traffic-Analyse. Sie können nicht-essentielle Cookies akzeptieren oder ablehnen.",
+    "accept": "Alle Cookies akzeptieren",
+    "reject": "Nicht-essentielle ablehnen"
   },
   "actions": {
-    "copy": "Copy",
-    "copied": "Copied!",
-    "download": "Download",
-    "reset": "Reset",
-    "clear": "Clear",
-    "convert": "Convert",
-    "format": "Format",
-    "minify": "Minify",
-    "add": "Add",
-    "delete": "Delete",
-    "generate": "Generate",
-    "upload": "Upload",
-    "moveUp": "Move Up",
-    "moveDown": "Move Down"
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "download": "Herunterladen",
+    "reset": "Zurücksetzen",
+    "clear": "Leeren",
+    "convert": "Konvertieren",
+    "format": "Formatieren",
+    "minify": "Minifizieren",
+    "add": "Hinzufügen",
+    "delete": "Löschen",
+    "generate": "Generieren",
+    "upload": "Hochladen",
+    "moveUp": "Nach oben",
+    "moveDown": "Nach unten"
   }
 }
